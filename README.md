@@ -1,1 +1,1 @@
-Extract Interval RR using different methods
+Extract interval RR using different methods
